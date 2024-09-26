@@ -79,7 +79,9 @@ pip install -r requirements.txt
 •	Image Classification (CNN): Run the notebook image_classification_cnn.ipynb to train and evaluate the CNN model.
 •	Retail Predictive Analytics: Run the notebook retail_predictive_analytics.ipynb to analyze retail data and perform forecasting.
 •	Student Performance Analysis: Run the notebook student_performance_analysis.ipynb to explore student data and build prediction models.
+
 Contact
 For any questions or feedback, feel free to reach out:
+
 •	Email: your.ajakmakuach@gmail.com
 •	GitHub: https://github.com/Ajakdeng/Ajaksolution/tree/main
